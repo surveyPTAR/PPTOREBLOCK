@@ -6,7 +6,7 @@ var lyr_240911_ortho_3m_0 = new ol.layer.Image({
                             
                             
                             source: new ol.source.ImageStatic({
-                               url: "./layers/240911_ortho_3m_0.png",
+                               url: "https://github.com/surveyPTAR/PPTdesign/blob/f4bc94d0c692742b6e3c5f00107864c67e65dc71/data/240911_ortho_3m_0.png",
     attributions: ' ',
                                 projection: 'EPSG:3857',
                                 alwaysInRange: true,
